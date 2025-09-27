@@ -1,1 +1,1 @@
-OpenStory is an open-source game developing by Simla and SillyCat
+OpenStory_Test is an test version of this open-source game. Developing by Simla and SillyCat
